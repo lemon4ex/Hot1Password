@@ -171,6 +171,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = "猿码工作室（https://ymlab.net）";
 				TargetAttributes = {
 					C9DA024A2253C902008CA463 = {
 						CreatedOnToolsVersion = 9.4.1;
@@ -331,7 +332,7 @@
 				EasyDevCopyExecutableOnAnyBuild = NO;
 				EasyDevDeviceIP = "";
 				EasyDevDevicePort = "";
-				EasyDevInstallOnAnyBuild = NO;
+				EasyDevInstallOnAnyBuild = YES;
 				EasyDevInstallOnProfiling = NO;
 				EasyDevKillProcessName = "";
 				EasyDevKillProcessOnInstall = NO;
@@ -363,7 +364,7 @@
 				EasyDevCopyExecutableOnAnyBuild = NO;
 				EasyDevDeviceIP = "";
 				EasyDevDevicePort = "";
-				EasyDevInstallOnAnyBuild = NO;
+				EasyDevInstallOnAnyBuild = YES;
 				EasyDevInstallOnProfiling = NO;
 				EasyDevKillProcessName = "";
 				EasyDevKillProcessOnInstall = NO;
